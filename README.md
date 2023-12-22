@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guillechuma
 - 👀 I’m interested in bioinformatics 🧬, data science and IOS app development!
-- 🌱 I’m currently learning Python, R, Ruby, SQL and Swift.
-- 💞️ I’m looking to collaborate on any bioinformatics/computational biology and data science projects, specially those involed with machine learning and AI.
+- 🌱 I’m learning Python, R, Java, Ruby, SQL, bash, and Swift.
+- 💞️ I’m looking to collaborate on any bioinformatics/computational biology and data science projects, especially those involved with machine learning and AI.
 - 📫 How to reach me guillechuma24@gmail.com
 
 <!---
